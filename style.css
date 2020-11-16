@@ -21,6 +21,8 @@
 .container{
     width: 489px;
     height: 259px;
+    margin: 3px;
+    font-family: 'Hind Siliguri', sans-serif;
 }
 
 .picture-left{
