@@ -23,6 +23,7 @@
     height: 259px;
     margin: 3px;
     font-family: 'Hind Siliguri', sans-serif;
+    display: flex;
 }
 
 .picture-left{
@@ -30,19 +31,19 @@
 }
 
 .content-right{
-
+    
 }
 
 h1{
-
+    font-size: 20px;
 }
 
 h3{
-
+    font-size: 15px;
 }
 
 .right-bottom{
-
+    display: flex;
 }
 
 .user-image{
@@ -50,11 +51,11 @@ h3{
 }
 
 .user-info{
+    font-size: 13px;
 
 }
 
 .user-name{
-
 }
 
 .user-date{
