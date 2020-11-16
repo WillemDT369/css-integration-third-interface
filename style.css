@@ -5,9 +5,9 @@
 }
 
 #mockup {
-    width: ..px;
-    height: ..px;
-    background-image: url();
+    width: 496px;
+    height: 265px;
+    background-image: url(./images/third-interface.png);
     
     position: absolute;
     top: 0;
@@ -17,13 +17,14 @@
     z-index: 10;
     pointer-events: none;
   }
-  
-.container{
 
+.container{
+    width: 489px;
+    height: 259px;
 }
 
 .picture-left{
-
+    
 }
 
 .content-right{
