@@ -7,7 +7,7 @@
 #mockup {
     width: 1229px;
     height: 442px;
-    /* background-image: url(./images/complex.10.png); */
+    background-image: url(./images/complex.10.png);
     
     position: absolute;
     top: 0;
@@ -48,13 +48,14 @@ padding: 5px 0 3px 3px;
 .image{
 margin-left: 73px;
 margin-top: 25px;
+margin-bottom: 10px;
 }
 
 .body{
     display: flex;
     flex-direction: column;
     text-align: center;
-    margin-top: 10px;
+    margin-top: 15px;
 }
 
 .name{
@@ -64,16 +65,22 @@ margin-top: 25px;
 }
 
 .content{
-padding: 11px 20px 0 29px;
+padding: 11px 20px 0 20px;
+margin-bottom: 15px;
 font-family: 'Roboto', sans-serif;
 font-size: 14px;
 line-height: 20px;
+align-items: center;
 }
 
 .social-media{
     display: flex;
     justify-content: center;
     padding-top: 2px;
+    border: 1px solid grey;
+    border-radius: 30px;
+    padding: 5px;
+    margin: 0 90px 0 90px;
 
 }
 
