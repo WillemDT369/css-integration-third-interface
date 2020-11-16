@@ -7,7 +7,7 @@
 #mockup {
     width: 496px;
     height: 265px;
-    background-image: url(./images/third-interface.png);
+    /* background-image: url(./images/third-interface.png); */
     
     position: absolute;
     top: 0;
@@ -24,6 +24,7 @@
     margin: 3px;
     font-family: 'Hind Siliguri', sans-serif;
     display: flex;
+    border: 1px solid #E5E5E5;
 }
 
 .picture-left{
@@ -44,6 +45,7 @@ h3{
     font-size: 15px;
     line-height: 17px;
     padding-top: 5px;
+    color: #929292;
 }
 
 .right-bottom{
@@ -69,10 +71,10 @@ h3{
 .user-name{
 }
 
-.user-date{
-    
+.date{
+    color: #929292;
 }
 
 .icon{
-padding: 12px 0 0 54px;
+padding: 12px 0 0 52px;
 }
