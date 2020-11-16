@@ -7,7 +7,7 @@
 #mockup {
     width: 1229px;
     height: 442px;
-    background-image: url(./images/complex.10.png);
+    /* background-image: url(./images/complex.10.png); */
     
     position: absolute;
     top: 0;
@@ -17,6 +17,7 @@
     z-index: 10;
     pointer-events: none;
   }
+ 
 
 .container{
     width: 1229px;
@@ -28,38 +29,21 @@
 
 }
 
-.card1, .card2, .card3, .card4{
+.card{
     border: 1px solid grey;
     border-radius: 20px;
     width: 289px;
     height: 412px;
 }
 
-/* .card2{
-    border: 1px solid grey;
-    border-radius: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-
-.card3{
-    border: 1px solid grey;
-    border-radius: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
-}
-
-.card4{
-    border: 1px solid grey;
-    border-radius: 20px;
-    margin-left: 5px;
-    margin-right: 5px;
-} */
-
 .job{
 text-align: center;
 font-family: 'Roboto', sans-serif;
+font-size: 10px;
+font-weight: 700;
+padding: 5px 0 3px 3px;
 }
+
 
 .image{
 margin-left: 73px;
@@ -75,25 +59,38 @@ margin-top: 25px;
 
 .name{
     font-family: 'Noto Serif', serif;
+    font-size: 25px;
+    font-weight: 600;
 }
 
 .content{
-padding: 20px;
+padding: 11px 20px 0 29px;
 font-family: 'Roboto', sans-serif;
+font-size: 14px;
+line-height: 20px;
 }
 
 .social-media{
-    /* border: 1px solid; */
+    display: flex;
+    justify-content: center;
+    padding-top: 2px;
+
 }
 
 .fa-facebook {
     color: black;
+    margin-left: 1px;
   }
   
   .fa-twitter {
     color: black;
+    margin-left: 5px;
+    margin-right: 10px;
+
   }
  
   .fa-instagram {
     color: black;
+    margin-left: 13px;
+
   }
