@@ -19,11 +19,45 @@
   }
 
 .container{
+    width: 1229px;
+    height: 442px;
+    display: flex;
+    padding: 17px 5px 0 0px;
+    justify-content: space-around;
+    
 
 }
 
-.job{
+.card1, .card2, .card3, .card4{
+    border: 1px solid grey;
+    border-radius: 20px;
+    width: 289px;
+    height: 412px;
+}
 
+/* .card2{
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.card3{
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.card4{
+    border: 1px solid grey;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+} */
+
+.job{
+text-align: center;
 }
 
 .image{
