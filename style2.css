@@ -39,20 +39,20 @@
 }
 
 .job{
-text-align: center;
-font-family: 'Roboto', sans-serif;
-font-size: 10px;
-font-weight: 700;
-padding: 5px 0 3px 3px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 10px;
+    font-weight: 700;
+    padding: 5px 0 3px 3px;
 }
 
 .line{
-  border: 1px solid #E8E8E8;
+    border: 1px solid #E8E8E8;
 }
 
 
 .image{
-margin: 25px 70px 10px 74px
+    margin: 25px 70px 10px 74px
 }
 
 .body{
@@ -69,13 +69,13 @@ margin: 25px 70px 10px 74px
 }
 
 .content{
-padding: 11px 20px 0 20px;
-margin-bottom: 15px;
-font-family: 'Roboto', sans-serif;
-font-size: 14px;
-line-height: 20px;
-align-items: center;
-color: #737373;
+    padding: 11px 20px 0 20px;
+    margin-bottom: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+    align-items: center;
+    color: #737373;
 }
 
 .social-media{
