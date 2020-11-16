@@ -1,11 +1,12 @@
 # CSS Integration Third Interface
 ## What
-This is another integration exercise in creating a pixel perfect interface. One interface was mandatory, other were at free will, with the possibility to earn new badges.
+This is another integration exercise in recreating an interface
+pixel perfect. One interface was mandatory, others were at free will, with the possibility to earn new badges (HTML, CSS3, Github).
 
 ## Why
-After doing our trial-run test we started to learn Javascript. After learning the basics we're going to make a project project with Javascript. This exercise is made to refresh our memories, before coninuing to the harder parts of Javascript
+After doing our trial-run test we started to learn Javascript. After learning the basics we're going to make a project project with Javascript. This exercise is given to refresh our memories, before continuing to the harder parts of Javascript
 ## How
-The interfaces were made with CSS and HTML only, no frameworks are alowed.
+The interfaces were made with CSS and HTML only, no frameworks were allowed.
 ## Tools
 - VsCode
 - CSS
