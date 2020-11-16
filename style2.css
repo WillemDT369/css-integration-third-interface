@@ -58,6 +58,7 @@
 
 .job{
 text-align: center;
+font-family: 'Roboto', sans-serif;
 }
 
 .image{
@@ -73,13 +74,26 @@ margin-top: 25px;
 }
 
 .name{
-
+    font-family: 'Noto Serif', serif;
 }
 
 .content{
 padding: 20px;
+font-family: 'Roboto', sans-serif;
 }
 
 .social-media{
-    border: 1px solid;
+    /* border: 1px solid; */
 }
+
+.fa-facebook {
+    color: black;
+  }
+  
+  .fa-twitter {
+    color: black;
+  }
+ 
+  .fa-instagram {
+    color: black;
+  }
