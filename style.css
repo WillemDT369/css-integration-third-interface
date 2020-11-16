@@ -7,7 +7,7 @@
 #mockup {
     width: 496px;
     height: 265px;
-    /* background-image: url(./images/third-interface.png); */
+    background-image: url(./images/third-interface.png);
     
     position: absolute;
     top: 0;
@@ -39,19 +39,24 @@ h1{
     font-size: 20px;
     line-height: 25px;
     letter-spacing: -0.5px;
+    font-weight: 600;
+    padding-right: 3px;
 }
 
 h3{
     font-size: 15px;
-    line-height: 17px;
-    padding-top: 5px;
+    line-height: 18px;
+    padding-top: 3px;
+    font-weight: 100;
+    padding-right: 20px;
+    letter-spacing: 0.3px;
     color: #929292;
 }
 
 .right-bottom{
     display: flex;
     /* justify-content: space-around; */
-    padding: 0px 0 5px 3px;
+    padding: 0px 0 5px 2px;
     margin-top: 58px;
 }
 
@@ -76,5 +81,5 @@ h3{
 }
 
 .icon{
-padding: 12px 0 0 52px;
+padding: 12px 0 0 55px;
 }
