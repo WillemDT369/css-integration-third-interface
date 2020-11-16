@@ -61,11 +61,15 @@ text-align: center;
 }
 
 .image{
-
+margin-left: 73px;
+margin-top: 25px;
 }
 
 .body{
-
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin-top: 10px;
 }
 
 .name{
@@ -73,9 +77,9 @@ text-align: center;
 }
 
 .content{
-
+padding: 20px;
 }
 
 .social-media{
-
+    border: 1px solid;
 }
